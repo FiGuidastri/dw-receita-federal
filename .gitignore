@@ -1,0 +1,5 @@
+data
+dados_cnpj
+.venv
+*.parquet
+*.zip
